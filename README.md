@@ -5,7 +5,7 @@
 The implementation uses the Fitzpatrik dataset of over 16,000 images spanning over 117 different skin diseases
 
 ## Data
-![Dataset]('data.png')
+![Dataset](data.png)
 ## Custom Model 1
 
 
